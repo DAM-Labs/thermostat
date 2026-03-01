@@ -1,11 +1,13 @@
 # Open Source Smart Thermostat
 
 
+## Folders
+### web/
+### scripts/
+### conf/
 
-
-# Versions
-
-## Alpha
+## Versions
+### Alpha
 - get temperature and relative humidity from external sensor
 - turn relays on/off connected to GPIO
 - get input from PIR sensor
@@ -13,3 +15,4 @@
 - web UI for temperature settings
 - web UI for setting daily/weekly schedules
 - information display
+- LED indicators
